@@ -26,13 +26,13 @@ Console-based User Interface
 
 Project Structure 📁
 QuickCart/
-├─ Main.java        # Entry point of the program
-├─ Product.java     # Base class for all products
-├─ Electronics.java # Electronics product type
-├─ Clothing.java    # Clothing product type
-├─ Grocery.java     # Grocery product type
-├─ Cart.java        # Handles adding/removing products and billing
-└─ User.java        # Simple user class
+├─ Main.java      
+├─ Product.java     
+├─ Electronics.java
+├─ Clothing.java   
+├─ Grocery.java    
+├─ Cart.java        
+└─ User.java        
 
 ====== How to Run ? =====
 Navigate to the project folder:
